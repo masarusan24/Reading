@@ -1,0 +1,15 @@
+ja:
+  time:
+    formats:
+      default: "%Y/%m/%d %H:%M:%S"
+    am: 午前
+    pm: 午後
+  activerecord:
+    models:
+      book: 書籍
+    attributes:
+      book:
+        title:  タイトル
+        author: 著者
+        publisher:  出版社
+        regist_date:  登録日
